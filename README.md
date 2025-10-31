@@ -4,7 +4,7 @@ I am a computer engineering student from Iran.
 
 ---
 
-### 💻 My Tech Stack
+###  My Tech Stack
 
 Here is a list of technologies I am proficient or familiar with:
 
@@ -28,33 +28,32 @@ Here is a list of technologies I am proficient or familiar with:
 
 ---
 
-### 🚀 Selected Projects
+###  Selected Projects
 
 Here are a few key projects I've worked on. (I recommend pinning these to your profile!)
 
 **1. Deep Learning for Image & Video Inpainting**
 * **Description:** Implemented and benchmarked multiple deep learning models (e.g., U-Net, GANs, 3D-CNNs) to restore corrupted regions in images and videos. Developed an interactive GUI with Gradio for high-quality results.
 * **Technologies:** PyTorch, OpenCV, 3D-CNNs, GANs, Gradio
-* **[https://github.com/SeyedNavidHashemi/Computer-Vision/tree/main/Deep-Learning-Image-Inpainting] | [See]**
+* [View on GitHub](https://github.com/SeyedNavidHashemi/Computer-Vision/tree/main/Deep-Learning-Image-Inpainting)
 
 **2. Deep Learning for Sentiment Classification**
 * **Description:** Implemented a multi-filter 1D-CNN to detect suicidal ideation in Twitter data. Developed a robust NLP preprocessing pipeline and leveraged pre-trained Word2Vec embeddings to achieve 91.6% classification accuracy.
 * **Technologies:** PyTorch, Gensim (Word2Vec), NLTK, Scikit-learn, Pandas
-* **[GitHub Repo Link]**
+* [View on GitHub](https://github.com/SeyedNavidHashemi/Introduction-to-Artificial-Intelligence-and-Machine-Learning/tree/main/Deep-Learning-Sentiment-Analysis)
 
 **3. CPY Language Compiler**
 * **Description:** Developed a three-phase compiler for the custom CPY language. Implemented a parser/AST generator (ANTLR), a Name Analyzer with Dead Code Elimination, and a Type Checker with built-in security analysis (e.g., memory leak and uninitialized variable detection).
 * **Technologies:** Java, ANTLR, Maven
-* **[GitHub Repo Link]**
+* [View on GitHub](https://github.com/SeyedNavidHashemi/Compiler-Design-and-Programming-Languages)
 
 **4. 5-Stage Pipelined RISC-V Processor**
 * **Description:** Implemented a 32-bit, 5-stage pipelined RISC-V (RV321) processor from scratch. Designed a complete Hazard Detection Unit, including data forwarding paths and pipeline flushing, to correctly manage all data and control hazards.
 * **Technologies:** Verilog, RISC-V ISA
-* **[GitHub Repo Link]**
+* [View on GitHub](https://github.com/SeyedNavidHashemi/Computer-Architecture/tree/main/project-4-pipelined-cpu)
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
-* **Email:** `[Your Email]`
+* **Email:** `navid.hashemi@ut.ac.ir`
