@@ -56,4 +56,4 @@ Here are a few key projects I've worked on. (I recommend pinning these to your p
 
 ###  Connect with Me
 
-* **Email:** `navid.hashemi@ut.ac.ir`
+* **Email:** [navid.hashemi@ut.ac.ir]
