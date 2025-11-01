@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img align="center" src="waving_hand.gif" width="43" />, I'm Navid Hashemi</h1>
 
-I am a computer engineering student from Iran.
+I'm a computer engineering student from Iran.
 
 ---
 
