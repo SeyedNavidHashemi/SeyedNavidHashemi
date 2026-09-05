@@ -12,6 +12,7 @@
   <a href="mailto:navid.hashemi@ut.ac.ir">Email</a>
 </p>
 
+<p align="center"> <img src="./image.png" alt="Football free-kick training against technology targets" width="100%" /> </p>
 ---
 
 ### About
