@@ -1,15 +1,16 @@
 <h1 align="center">Navid Hashemi</h1>
 
 <p align="center">
-  Computer Engineering Graduate
-  <br>
-  Interested in AI, Machine Learning, LLMs,  Computer Vision
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-label="LinkedIn">
+      <path fill="currentColor" d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.35V8.98h3.42v1.57h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.29ZM5.34 7.41a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12ZM3.56 20.45h3.57V8.98H3.56v11.47Z"/>
+    </svg>
+    LinkedIn
+  </a>
   &nbsp;·&nbsp;
-  <a href="mailto:navid.hashemi@ut.ac.ir">Email</a>
+  <a href="mailto:navid.hashemi@ut.ac.ir">
+    ✉️ Email
+  </a>
 </p>
 
 ---
