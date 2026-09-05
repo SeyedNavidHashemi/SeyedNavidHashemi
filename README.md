@@ -3,11 +3,11 @@
 <p align="center">
   Computer Engineering Graduate
   <br>
-  Interested in AI, Machine Learning & Computer Vision
+  Interested in AI, Machine Learning, LLMs,  Computer Vision
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seyednavidhashemijazi">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:navid.hashemi@ut.ac.ir">Email</a>
 </p>
