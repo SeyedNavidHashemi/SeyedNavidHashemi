@@ -1,29 +1,39 @@
-<h1 align="center">Hi <img align="center" src="waving_hand.gif" width="43" />, I'm Navid Hashemi</h1>
+<h1 align="center">Navid Hashemi</h1>
 
-I'm a computer engineering student from Iran.
+<p align="center">
+  Computer Engineering Graduate
+  <br>
+  Interested in AI, Machine Learning & Computer Vision
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seyednavidhashemijazi">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:navid.hashemi@ut.ac.ir">Email</a>
+</p>
 
 ---
 
-###  My Tech Stack
+### About
 
-Here is a list of technologies I am proficient or familiar with:
+I'm a recent Computer Engineering graduate interested in understanding and building intelligent systems.
 
-* **Programming Languages (Proficient):** C, C++, Python, Java, SQL, Verilog
-* **Programming Languages (Familiar):** Matlab, HTML, CSS
-* **AI, ML & Data Science:** PyTorch, Scikit-learn, OpenCV, Pandas & NumPy, YOLOv8
-* **Systems & Engineering Tools:** Git, Linux/Unix, ANTLR, VS Code, IntelliJ IDEA, Jupyter Notebooks, Google Colab, Gradio, Maven
+My academic and personal projects have taken me from **computer systems and low-level programming** to **machine learning, computer vision, and generative models**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Verilog-8E00FF?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
+I'm currently focused on strengthening my foundations, exploring new ideas, and turning what I learn into practical projects.
+
+### Interests
+
+**Machine Learning** · **Computer Vision** · **Generative Models** · **Representation Learning** · **Model Interpretability**
+
+### Tools
+
+Python · C/C++ · Java · PyTorch · OpenCV · scikit-learn · NumPy · Pandas · Verilog · Git · Linux
+
+---
+
+<p align="center">
+  <i>Build → Learn → Question → Improve</i>
 </p>
 
 ###  Connect with Me
