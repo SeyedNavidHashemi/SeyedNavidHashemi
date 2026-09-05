@@ -34,9 +34,4 @@ Python · C/C++ · Java · PyTorch · OpenCV · scikit-learn · NumPy · Pandas 
 
 <p align="center">
   <i>Build → Learn → Question → Improve</i>
-</p>
-
-###  Connect with Me
-
-* - Email:** **navid.hashemi@ut.ac.ir**
-* - 💼 LinkedIn: [SeyedNavidHashemiJazi](https://www.linkedin.com/in/seyed-navid-hashemi-jazi-485485395/)
+</p
