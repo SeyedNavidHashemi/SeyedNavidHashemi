@@ -28,4 +28,5 @@ Here is a list of technologies I am proficient or familiar with:
 
 ###  Connect with Me
 
-* **Email:** **navid.hashemi@ut.ac.ir**
+* - Email:** **navid.hashemi@ut.ac.ir**
+* - 💼 LinkedIn: [SeyedNavidHashemiJazi](https://www.linkedin.com/in/seyed-nnavid-hashemi-jazi-485485395/)
