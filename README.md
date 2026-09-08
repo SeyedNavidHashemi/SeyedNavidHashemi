@@ -22,8 +22,4 @@ Python · C/C++ · Java · PyTorch · OpenCV · scikit-learn · NumPy · Pandas 
 
 ---
 
-<p align="center">
-  <i>Build → Learn → Question → Improve</i>
-</p
-
 <p align="center"> <img src="./image.png" alt="Football free-kick training against technology targets" width="100%" /> </p>
