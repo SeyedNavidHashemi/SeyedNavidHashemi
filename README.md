@@ -1,6 +1,16 @@
 <h1 align="center">Navid Hashemi</h1>
 
-<p align="center"> <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">My LinkedIn</a> &nbsp;&nbsp; <a href="mailto:navid.hashemi@ut.ac.ir">My Email</a> &nbsp;&nbsp; <a href="[mailto:navid.hashemi@ut.ac.ir](https://seyednavidhashemi.github.io/NavSite/)">My Website</a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:navid.hashemi@ut.ac.ir">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;&nbsp;
+  <a href="https://seyednavidhashemi.github.io/NavSite/">
+    <img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ---
 
