@@ -1,6 +1,6 @@
 <h1 align="center">Navid Hashemi</h1>
 
-<p align="center"> <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">My LinkedIn</a> &nbsp;&nbsp; <a href="mailto:navid.hashemi@ut.ac.ir">My Email</a> <a href="mailto:navid.hashemi@ut.ac.ir">My Email</a><a href="<a href="mailto:navid.hashemi@ut.ac.ir">My Email</a>">My Website</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/seyed-navid-hashemi-485485395">My LinkedIn</a> &nbsp;&nbsp; <a href="mailto:navid.hashemi@ut.ac.ir">My Email</a> &nbsp;&nbsp; <a href="mailto:navid.hashemi@ut.ac.ir">My Email</a>">My Website</a></p>
 
 ---
 
