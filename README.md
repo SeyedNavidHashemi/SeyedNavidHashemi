@@ -12,12 +12,7 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://your-app-name.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Talk_to_my_Digital_Twin-Live_Demo-07111e?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="Digital Twin">
-  </a>
-  <p><sub>Have questions about my background or AI projects? Ask my AI twin directly!</sub></p>
-</div>
+- 🤖 **AI Twin:** [Chat with my Digital Twin](https://your-app-name.onrender.com)
 
 
 ---
