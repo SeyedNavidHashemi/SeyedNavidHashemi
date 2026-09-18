@@ -21,9 +21,10 @@
 
 <p align="center">
   <a href="https://digital-twin-jodb.onrender.com/" target="_blank">
-    <img src="[https://img.shields.io/badge/●_ONLINE-Chat_with_Navid's_AI_Twin-07111e?style=for-the-badge&labelColor=0d1117&color=38bdf8](https://github.com/user-attachments/assets/43461a6f-1ad4-4d53-aea7-c6df543c2750)" height="36" />
+    <img src="https://github.com/user-attachments/assets/43461a6f-1ad4-4d53-aea7-c6df543c2750" height="36" />
   </a>
 </p>
+
 ---
 
 ### About
