@@ -19,12 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://digital-twin-jodb.onrender.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/43461a6f-1ad4-4d53-aea7-c6df543c2750" height="36" />
-  </a>
-</p>
-
 ---
 
 ### About
