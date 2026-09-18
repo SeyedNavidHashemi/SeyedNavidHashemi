@@ -12,9 +12,8 @@
   </a>
 </p>
 
-<p align="center">
 [![AI Digital Twin](https://img.shields.io/badge/🤖_AI_Digital_Twin-Chat_Now-0e2238?style=for-the-badge&logoColor=38bdf8)](https://your-app-name.onrender.com)
-</p>
+
 
 
 ---
