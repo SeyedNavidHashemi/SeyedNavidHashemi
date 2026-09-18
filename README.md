@@ -19,6 +19,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://digital-twin-jodb.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/●_ONLINE-Chat_with_Navid's_AI_Twin-07111e?style=for-the-badge&labelColor=0d1117&color=38bdf8" height="36" />
+  </a>
+</p>
 ---
 
 ### About
