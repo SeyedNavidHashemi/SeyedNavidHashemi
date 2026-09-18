@@ -12,8 +12,11 @@
   </a>
 </p>
 
-- 🤖 **AI Twin:** [Chat with my Digital Twin](https://your-app-name.onrender.com)
-
+<p align="center">
+  <a href="https://your-app-name.onrender.com">
+    <img src="https://img.shields.io/badge/🤖_AI_Digital_Twin-Chat_Now-0e2238?style=for-the-badge&logoColor=38bdf8" alt="My Digital Twin">
+  </a>
+</p>
 
 ---
 
