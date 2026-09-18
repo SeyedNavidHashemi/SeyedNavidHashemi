@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://digital-twin-jodb.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Digital_Twin-Chat_Now-0e2238?style=for-the-badge" width="34" height="34" valign="middle" /><img src="https://img.shields.io/badge/—_AI_Digital_Twin-Talk_with_me-0e2238?style=flat-square&logoColor=38bdf8" height="34" valign="middle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=%F0%9F%A4%96+Talk+to+my+AI+Digital+Twin...;Ask+about+my+projects+%26+experience!" alt="AI Twin" />
   </a>
 </p>
 
