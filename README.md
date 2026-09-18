@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://your-app-name.onrender.com">
-    <img src="https://img.shields.io/badge/🤖_AI_Digital_Twin-Chat_Now-0e2238?style=for-the-badge&logoColor=38bdf8" alt="My Digital Twin">
+  <a href="https://digital-twin-jodb.onrender.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/43461a6f-1ad4-4d53-aea7-c6df543c2750" height="28" align="center" />
+    <img src="https://img.shields.io/badge/AI_Digital_Twin-Chat_Now-0e2238?style=for-the-badge" alt="AI Digital Twin" align="center" />
   </a>
 </p>
 
